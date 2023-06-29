@@ -1,0 +1,16 @@
+.bt{
+    background-color: blue;
+    color: bisque;
+    width: fit-content;
+}
+ 
+fieldset{
+    background-color: black;
+    color: beige;
+    text-align: center;
+    border: cadetblue 15px;
+    border-radius: 5px;
+    padding-bottom: 5px;
+    padding: 10px;
+
+}
